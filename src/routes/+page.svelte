@@ -5,7 +5,7 @@
 	import { toasts, ToastContainer, FlatToast, BootstrapToast } from 'svelte-toasts';
 	import { createEventDispatcher } from 'svelte';
 	const dispatch = createEventDispatcher();
-
+	import { base } from '$app/paths';
 	let tableText = '';
 	let formattedTable: string | undefined = '';
 
@@ -30,7 +30,7 @@
 			<h2
 				class="text-2xl font-bold leading-7 text-white sm:truncate sm:text-3xl sm:tracking-tight flex items-center"
 			>
-				<img src="/favicon.png" alt="Logo" class="inline w-8 h-8 mr-2" />
+				<img src="{base}/favicon.png" alt="Logo" class="inline w-8 h-8 mr-2" />
 				AT4RE MD Table Formater
 				<span
 					class="inline-block bg-gray-600 text-white text-sm font-semibold px-2 rounded-full ml-2"
