@@ -1,8 +1,8 @@
-# AT4RE MD table formater
+# AT4RE MD table formatter
 
-![Alt text](https://raw.githubusercontent.com/R333T/at4re-md-table-formater/main/static/favicon.png)
+![Alt text](https://raw.githubusercontent.com/R333T/at4re-md-table-formatter/main/static/favicon.png)
 
-AT4RE MD Table Formater is a versatile tool designed to streamline Markdown table formatting...
+AT4RE MD Table Formatter is a versatile tool designed to streamline Markdown table formatting...
 
 ## Developing
 

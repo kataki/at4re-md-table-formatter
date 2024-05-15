@@ -16,10 +16,10 @@
 </script>
 
 <svelte:head>
-	<title>AT4RE MD Table Formater {version}</title>
+	<title>AT4RE MD Table Formatter {version}</title>
 	<meta
 		name="description"
-		content="AT4RE MD Table Formater is a versatile tool designed to streamline Markdown table formatting..."
+		content="AT4RE MD Table Formatter is a versatile tool designed to streamline Markdown table formatting..."
 	/>
 	<meta name="author" content="R333T" />
 </svelte:head>
@@ -31,7 +31,7 @@
 				class="text-2xl font-bold leading-7 text-white sm:truncate sm:text-3xl sm:tracking-tight flex items-center"
 			>
 				<img src="{base}/favicon.png" alt="Logo" class="inline w-8 h-8 mr-2" />
-				AT4RE MD Table Formater
+				AT4RE MD Table Formatter
 				<span
 					class="inline-block bg-gray-600 text-white text-sm font-semibold px-2 rounded-full ml-2"
 					>v0.0.1</span
